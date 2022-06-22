@@ -35,9 +35,5 @@
 ### save.py
 - 객체 인식 결과를 내부 파일에 저장하는 함수  
 
-### 자세한 코드 설명
-- 블로그에 추가 예정 https://blog.naver.com/digitalnomad00
-
-
-
-### 사용 방법
+### 자세한 코드 설명, 사용 방법 설명
+- https://blog.naver.com/digitalnomad00/222686464700
